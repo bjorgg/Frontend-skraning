@@ -10,4 +10,4 @@ I decided to do a front-end where members can register to classes in a sports cl
 
 Here is a link to the back-end server repo: https://github.com/bjorgg/Backend-Server-site <br>
 Here is a link to the API: https://server-skraning.herokuapp.com/posts <br>
-Here is a link to the demo website:
+Here is a link to the demo website: https://youthful-easley-4abf86.netlify.app/
