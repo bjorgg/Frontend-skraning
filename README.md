@@ -4,7 +4,7 @@ In this project we were supposed to create an API with a server-site technology 
 
 ---
 
-I decided to do a front-end where members can register to classes in a sports club I'm a member in. In real life it wouldn't be set up like this, it's just as simple as possible for this project. You can see one class and a input to fill in your name and submit. You can also see the list for all names submitted and and a button to delete each person from the list for demonstration purpose. So the data is just names and you can get the data from the database, post to it and delete freom it.
+I decided to do a front-end where members can register to classes in a sports club I'm a member in. In real life it wouldn't be set up like this, it's just as simple as possible for this project. You can see one class and a input to fill in your name and submit. You can also see the list for all names submitted and and a button to delete each person from the list for demonstration purpose. So the data is just names and you can get the data from the database, post to it and delete from it.
 
 ---
 
